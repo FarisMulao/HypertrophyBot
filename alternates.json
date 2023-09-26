@@ -1,0 +1,58 @@
+{
+    "chest": [
+      "(Standard or Incline) Barbell Bench Press", "(Standard or Incline) Dumbbell Bench Press", "(Standard or Incline) Cable Chest Fly", "(Standard or Incline) Dumbbell Chest Fly", "Push-up", "Dips", "Machine Press Variants" 
+    ],
+  
+    "tricep": [
+      "Overhead Tricep Extension", "Tricep Pushdown", "Single Arm Tricep Extension", "Skull Crusher", "JM Press", "Any Pressing Variant"
+    ],
+  
+    "bicep": [
+      "Barbell Bicep Curl", "Dumbell Bicep Curl", "Preacher Curl", "Incline Dumbell Bicep Curl", "Machine Bicep Curl", "Spider Curl", "Hammer Curl"  
+    ], 
+  
+    "frontdelt": [
+      "Front Raise", "Dumbell Shoulder Press", "Barbell Shoulder Press"
+    ],
+  
+    "middledelt": [
+      "Dumbell Lateral Raise", "Cable Lateral Raise", "Upright Row", "Dumbell Partial Lateral Raise"
+    ],
+  
+    "reardelt": [
+      "Rear Delt Fly", "Reverse Peckdeck", "Chest Supported Row"
+    ],
+  
+    "forearm": [
+      "Reverse Curl", "Wrist Extension", "Standing Wrist Curl", "Bench Wrist Curl", "Preacher Hammer Curl"
+    ],
+  
+    "abs": [
+      "Machine Ab Crunch", "Cable Ab Crunch (With Ropes)", "Leg Raise", "Russian Twist"
+    ],
+  
+    "upperback": [
+      "Chest Supported Row", "Barbell Row", "Y Raise", "Pull-Up", "Cable Pull-Down", "Cable Row", "Face Pull", "T-Bar Row", ""
+    ],
+  
+    "lats": [
+      "Kneeling Single Arm Lat Pulldown", "Chin up", "Lat Pushdown", "Reverse Grip Barbell Row", "Neutral Grip Cable Row", "Single Arm Dumbbell Row", "Dumbbell Pullover"
+    ],
+  
+    "hamstrings": [
+      "RDL (Romanian Deadlift)", "Seated Hamstring Curl", "Lying Hamstring Curl", "Good Mornings"
+    ],
+  
+    "quads": [
+      "Barbell Squat", "Leg Extension", "Hack Squat", "Smith Machine Squat", "Sissy Squat", "Bulgarian Split Squat", "Weighted Lunges"
+    ],
+  
+    "calves": [
+      "Standing Calf Raise", "Leg Press Calf Raise", "Seated Dumbell Calf Raise", "Calf Raise Machine Variant"
+    ],
+  
+    "glutes": [
+      "Hip Thrust", "Glute Bridge", "Bulgarian Split Squat", "Weighted Lunges"
+    ]
+  
+  }

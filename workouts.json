@@ -1,0 +1,24 @@
+{
+    "Monday": [
+      {"Hamstring Curls": 1}, {"Squat": 0.8, "Leg Press": 0.2}, {"Calf Raise": 1}, {"Quad Extension": 1}
+    ],
+  
+    "Tuesday": [
+      {"Incline DB Bench": 0.8, "DB Bench": 0.2},{"Chest Fly": 0.6, "Incline Cable Chest Fly": 0.4},{"Pull Ups": 1},{"Single Arm Lat Pulldown": 1},{"Chest Supported Row": 0.5, "Rear Delt Fly": 0.5}
+    ],
+    "Wednesday": [
+      {"EZ Bar Bicep Curl": 0.5, "Machine Bicep Curl": 0.5},{"Overhead Tricep Extension": 1},{"Reverse Curl": 1},{"DB Lateral Raise + Partials": 0.5, "Cable Lateral Raise": 0.5},{"Wrist Curl": 1},{"Hammer Curl": 0.5, "Alternating DB Bicep Curl": 0.5}
+    ],
+    "Thursday": [
+      {"RDL": 0.8, "Deadlift": 0.2},{"Hamstring Curl": 1},{"Calf Raise": 1},{"Quad Extension": 1}
+    ],
+    "Friday": [
+      {"Incline DB Bench": 0.8, "DB Bench": 0.2},{"Chest Fly": 1},{"Pull Ups": 1},{"Single Arm Lat Pulldown": 1},{"Chest Supported Row": 0.5, "Rear Delt Fly": 0.5}
+    ],
+    "Saturday": [
+      {"Overhead Tricep Extension": 1},{"Reverse Curl": 1},{"Single Arm Tricep Extension": 1},{"Machine Bicep Curl": 0.4, "EZ Bar Bicep Curl": 0.3, "Alternating DB Bicep Curl": 0.3},{"DB Lateral Raise + Partials": 0.5, "Cable Lateral Raise": 0.5}
+    ],
+  "Sunday": [
+      {"Take the day off :)": 1}
+    ]
+  }
